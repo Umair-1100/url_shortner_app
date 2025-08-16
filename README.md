@@ -17,7 +17,7 @@ This project demonstrates how to create a lightweight backend API with Node.js a
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS  
 - **Backend:** Node.js (built-in `http` module)  
-- **Storage:** In-memory (objects/arrays, no database used)  
+- **Storage:** In-memory (objects/Json, no database used)  
 
 ---
 
