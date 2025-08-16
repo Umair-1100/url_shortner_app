@@ -1,0 +1,14 @@
+{
+  "name": "url_shortner",
+  "version": "1.0.0",
+  "description": "URL shortner is creating by UMAIR QASIM",
+  "main": "app.js",
+  "scripts": {
+    "dev" : "node --watch app.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "UMAIR QASIM",
+  "license": "ISC",
+  "type": "module"
+}
